@@ -1,7 +1,7 @@
 package kr.smhrd;
 
 public class MyUtil {
-	// ÇÑ±ÛÃß°¡
+	// í•œê¸€ìˆ˜ì •
     public int hap() {
     	return 55;
     }
